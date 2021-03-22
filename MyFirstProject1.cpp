@@ -14,6 +14,18 @@ int main()
     std::cout << "  ***************";
     std::cout << " *****************";
     std::cout << "*******************";
+    
+    std::cout << "*******************";
+    std::cout << " *****************";
+    std::cout << "  ***************";
+    std::cout << "   *************";
+    std::cout << "    ***********";
+    std::cout << "     ********";    
+    std::cout << "       *****";
+    std::cout << "        ***";
+    std::cout << "         *";
+   
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
